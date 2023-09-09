@@ -1,10 +1,9 @@
 # Hi! my name is Aleksandr
 ### About me
--  Since childhood, I have always been attracted to study, and I have tried to achieve high results at school. My academic achievements were particularly pronounced in the field of mathematics. Since childhood, I have shown great interest in this subject and actively participated in various mathematical Olympiads and competitions.
-- After successfully passing the final exams at school, I decided to continue my education in the field of technical sciences. Subsequently, I entered two prestigious technical universities and began studying engineering and technical disciplines.
-- However, on the way to getting an education, I had unforeseen family circumstances that forced me to temporarily suspend my studies. It was a difficult decision, but I focused on supporting the family and solving family issues.
-- I am currently actively developing my career in data science. This profession allows me to use my analytical skills and passion for numbers in everyday activities. I strive for continuous learning and development in this field by participating in online courses, seminars and projects related to data analysis.
-- Besides work, I have many hobbies. Sports play an important role in my life, and I exercise regularly.
-- Reading books is also an important part of my life. I am passionate about various genres of literature and am constantly looking for new works to read. This allows me to broaden my horizons and develop creative thinking.
-- I am also fond of learning languages. My native language is Russian. In addition, I am actively studying English and Lithuanian, as I consider it important to be able to communicate with people from different countries and immerse myself in different cultures.
-- In conclusion, I believe in constant self-development and striving to achieve my goals. My academic and professional history, hobbies and aspirations reflect my commitment to growth and development as a person. I am ready to face new challenges and opportunities with an open mind and determination.
+-  I studied well at school, with excellent results in mathematics and participation in Olympiads.
+- I entered two technical universities, but did not graduate due to family circumstances.
+- I’m currently learning Math and Machine learning
+- I am fond of sports, reading books and learning languages (English and Lithuanian).
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoginovAM-ds&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoginovAM-ds&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoginovAM-ds&theme=aura)
